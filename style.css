@@ -48,7 +48,7 @@ p {
 }
 #banner {
   background-image: linear-gradient(rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 50%),
-            url("images/background.jpeg");
+                    url("images/background.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
